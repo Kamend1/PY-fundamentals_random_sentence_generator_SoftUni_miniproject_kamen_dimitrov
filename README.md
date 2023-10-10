@@ -1,0 +1,2 @@
+# PY-fundamentals_random_sentence_generator_SoftUni_miniproject_kamen_dimitrov
+SoftUni Python Fundamentals Mini Project Random Sentence Generator
