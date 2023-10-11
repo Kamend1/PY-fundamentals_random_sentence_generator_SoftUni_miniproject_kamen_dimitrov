@@ -11,4 +11,4 @@
 ## Live Demo
 You can try directly in your browser here:
 
-[![Play Button](https://replit.com/@kamendd/Random-Sentence-Generator-Mini-Project#main.py)]
+![Play Button](https://replit.com/@kamendd/Random-Sentence-Generator-Mini-Project#main.py)]
