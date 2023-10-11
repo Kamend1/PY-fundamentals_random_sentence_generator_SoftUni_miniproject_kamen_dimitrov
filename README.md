@@ -11,4 +11,5 @@
 ## Live Demo
 You can try directly in your browser here:
 
-[<img alt="Play Button" src=![Screenshot 2023-10-11 at 11-47-01 Random Sentence Generator Mini Project](https://github.com/Kamend1/PY-fundamentals_random_sentence_generator_SoftUni_miniproject_kamen_dimitrov/assets/142220912/793870e5-08bf-4b28-b730-9e53a01ab52d) />] (https://replit.com/@kamendd/Random-Sentence-Generator-Mini-Project)
+[![Play Button](![Screenshot 2023-10-11 at 11-47-01 Random Sentence Generator Mini Project](https://github.com/Kamend1/PY-fundamentals_random_sentence_generator_SoftUni_miniproject_kamen_dimitrov/assets/142220912/11ef9a6e-8e49-4589-9543-ea18876be061)
+)]([link_url](https://replit.com/@kamendd/Random-Sentence-Generator-Mini-Project#main.py)https://replit.com/@kamendd/Random-Sentence-Generator-Mini-Project#main.py)
